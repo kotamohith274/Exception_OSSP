@@ -1,3 +1,7 @@
+
+
+<img width="383" height="157" alt="Screenshot 2026-08-24 at 8 49 12 PM" src="https://github.com/user-attachments/assets/440039ec-6491-4f1b-bd13-26771dc316b1" />
+
 Interactive Input Handling in C:-
 
 1. Main Loop and Prompt
